@@ -1,0 +1,23 @@
+.picture{
+
+    position: absolute;
+    z-index: 1;
+    height:90%;
+    width:90%;
+    left: 5%;
+    top: 5%;
+
+}
+
+.link{
+    position: absolute;
+    z-index:1;
+    left: 7%;
+    top: 7%;
+    color:red;
+    border: 2px red solid;
+    padding: 2px 15px 6px 15px;
+    border-radius: 50px;
+    text-decoration: none;
+
+}

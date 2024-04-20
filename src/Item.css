@@ -1,0 +1,10 @@
+.item{
+    color: white;
+    font-size: 25px;
+    height: 250px;
+    background-color: black;
+    border: white solid 5px;
+    border-radius: 10px;
+    margin: 20px;
+
+}
